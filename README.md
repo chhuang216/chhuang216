@@ -41,7 +41,7 @@ Git · JupyterLab · VS Code · Streamlit · FastAPI
 
 ## Featured Projects (In Progress)
 
-To demonstrate my applied skills and technical breadth, I am building open-source projects using public and synthetic datasets. These projects cover real-world workflows in AI, bioinformatics, ETL pipelines, and cloud engineering using tools like Spark, Docker, SHAP, and Streamlit.
+To demonstrate my applied skills and technical breadth, I am building open-source projects using public and synthetic datasets. These projects cover real-world workflows in AI, bioinformatics, ETL pipelines, and cloud engineering.
 
 ### `gene-expression-ai-pipeline`  
 Predict disease status from gene expression data using machine learning and SHAP-based explainability.  
