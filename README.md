@@ -48,8 +48,8 @@ Predict disease status from gene expression data using machine learning and SHAP
 Tech: Python · scikit-learn · SHAP · seaborn · Docker · Jupyter
 
 ### `healthcare-etl-spark`  
-Spark-based ETL pipeline that processes mock healthcare data, containerized with Docker and stored in PostgreSQL.  
-Tech: PySpark · Docker · PostgreSQL · AWS S3 · Bash
+Design and deploy a PySpark-based ETL pipeline that ingests synthetic clinical data, performs cleaning and transformation, and writes the results to a PostgreSQL database. The project is fully containerized with Docker to simulate a production-like environment and demonstrates scalable data engineering practices for healthcare analytics.  
+Tech: PySpark · Docker · PostgreSQL · pandas · Faker · Bash
 
 ### `xai-causal-toolkit`  
 Toolkit comparing SHAP explanations and causal inference on synthetic or public datasets.  
