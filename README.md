@@ -45,7 +45,7 @@ To demonstrate my applied skills and technical breadth, I am building open-sourc
 
 ### `gene-expression-ai-pipeline`  
 Predict disease status from gene expression data using machine learning and SHAP-based explainability.  
-Tech: Python · scikit-learn · SHAP · seaborn · Docker · Jupyter
+Tech: Python · scikit-learn · SHAP · XGBoost · Docker · Jupyter · TensorFlow
 
 ### `healthcare-etl-spark`  (WIP)
 Design and deploy a PySpark-based ETL pipeline that ingests synthetic clinical data, performs cleaning and transformation, and writes the results to a PostgreSQL database. The project is fully containerized with Docker to simulate a production-like environment and demonstrates scalable data engineering practices for healthcare analytics.  
