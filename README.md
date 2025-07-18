@@ -39,7 +39,7 @@ Git · JupyterLab · VS Code · Streamlit · FastAPI
 
 ---
 
-## Featured Projects (In Progress)
+## Featured Projects
 
 To demonstrate my applied skills and technical breadth, I am building open-source projects using public and synthetic datasets. These projects cover real-world workflows in AI, bioinformatics, ETL pipelines, and cloud engineering.
 
@@ -47,19 +47,19 @@ To demonstrate my applied skills and technical breadth, I am building open-sourc
 Predict disease status from gene expression data using machine learning and SHAP-based explainability.  
 Tech: Python · scikit-learn · SHAP · seaborn · Docker · Jupyter
 
-### `healthcare-etl-spark`  
+### `healthcare-etl-spark`  (WIP)
 Design and deploy a PySpark-based ETL pipeline that ingests synthetic clinical data, performs cleaning and transformation, and writes the results to a PostgreSQL database. The project is fully containerized with Docker to simulate a production-like environment and demonstrates scalable data engineering practices for healthcare analytics.  
 Tech: PySpark · Docker · PostgreSQL · pandas · Faker · Bash
 
-### `xai-causal-toolkit`  
+### `xai-causal-toolkit`  (WIP)  
 Toolkit comparing SHAP explanations and causal inference on synthetic or public datasets.  
 Tech: DoWhy · EconML · SHAP · scikit-learn · Jupyter
 
-### `clinical-nlp-pipeline`  
+### `clinical-nlp-pipeline`  (WIP)  
 Extract structured information from mock clinical notes using NLP models.  
 Tech: spaCy · HuggingFace Transformers · FastAPI · Streamlit
 
-### `portfolio-dashboard`  
+### `portfolio-dashboard`  (WIP)  
 Interactive dashboard showcasing models, visualizations, and publications.  
 Tech: Streamlit · Dash · JSON backend
 
