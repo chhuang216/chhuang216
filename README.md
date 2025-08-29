@@ -47,21 +47,14 @@ To demonstrate my applied skills and technical breadth, I am building open-sourc
 Predict disease status from gene expression data using machine learning and SHAP-based explainability.  
 Tech: Python · scikit-learn · SHAP · XGBoost · Docker · Jupyter · TensorFlow
 
-### `healthcare-etl-spark`  (WIP)
-Design and deploy a PySpark-based ETL pipeline that ingests synthetic clinical data, performs cleaning and transformation, and writes the results to a PostgreSQL database. The project is fully containerized with Docker to simulate a production-like environment and demonstrates scalable data engineering practices for healthcare analytics.  
-Tech: PySpark · Docker · PostgreSQL · pandas · Faker · Bash
+### `cdk-projen`
+AWS CDK (TypeScript) + Projen project that deploys a minimal, cost-safe foundation (public VPC, S3 artifacts, ECR, IAM) with CloudTrail, budget, tests, and GitHub Actions CI. Reproducible IaC starter for ML/AI workloads.  
+Tech: AWS · AWS-CDK · TypeScript · IaC · VPC · CloudFormation · ERC · Projen · CDK-NAG
 
-### `xai-causal-toolkit`  (WIP)  
-Toolkit comparing SHAP explanations and causal inference on synthetic or public datasets.  
-Tech: DoWhy · EconML · SHAP · scikit-learn · Jupyter
+### `student-outcomes-reporting`  (WIP)  
+This project demonstrates a compact, reproducible workflow to ingest public higher-education data, prepare student-weighted metrics, and publish stakeholder-ready Tableau dashboards.  
+Tech: Python · T-SQL · Tableau · Docker
 
-### `clinical-nlp-pipeline`  (WIP)  
-Extract structured information from mock clinical notes using NLP models.  
-Tech: spaCy · HuggingFace Transformers · FastAPI · Streamlit
-
-### `portfolio-dashboard`  (WIP)  
-Interactive dashboard showcasing models, visualizations, and publications.  
-Tech: Streamlit · Dash · JSON backend
 
 ---
 
