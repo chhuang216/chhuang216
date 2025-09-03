@@ -55,6 +55,10 @@ Tech: AWS · AWS-CDK · TypeScript · IaC · VPC · CloudFormation · ERC · Pro
 This project demonstrates a compact, reproducible workflow to ingest public higher-education data, prepare student-weighted metrics, and publish stakeholder-ready Tableau dashboards.  
 Tech: Python · T-SQL · Tableau · Docker
 
+### `realtime-data-pipeline` 
+Windows-first PySpark batch pipeline: ingest raw → bronze Parquet, run DQ checks, publish curated silver. PowerShell wrapper adds Spark hygiene, parallelism controls, and step logs.  
+Tech: PySpark · Spark · ETL · Python · Parquet · DQ · Bronze/Silver · Partitioning · PyArrow · PowerShell · Windows · Logging · Airflow · Git/GitHub
+
 
 ---
 
