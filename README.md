@@ -60,7 +60,8 @@ Windows-first PySpark batch pipeline: ingest raw → bronze Parquet, run DQ chec
 Tech: PySpark · Spark · ETL · Python · Parquet · DQ · Bronze/Silver · Partitioning · PyArrow · PowerShell · Windows · Logging · Airflow · Git/GitHub
 
 ### `customer-feedback-analyzer` 
-An NLP-powered web app to automatically analyze customer reviews. This tool discovers key topics, generates AI summaries, and assesses sentiment using BERTopic and Hugging Face Transformers. The interactive dashboard is built with Streamlit. 
+An NLP-powered web app to automatically analyze customer reviews. This tool discovers key topics, generates AI summaries, and assesses sentiment using BERTopic and Hugging Face Transformers. The interactive dashboard is built with Streamlit.
+
 Tech: python · nlp · data-science · machine-learning · streamlit · hugging-face · transformers · bertopic · spacy · data-visualization · sentiment-analysis
 
 ---
