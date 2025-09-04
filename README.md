@@ -68,6 +68,10 @@ An NLP-powered web app to automatically analyze customer reviews. This tool disc
 
 Tech: python · nlp · data-science · machine-learning · streamlit · hugging-face · transformers · bertopic · spacy · data-visualization · sentiment-analysis
 
+### `bedrock-feedback-analyzer` 
+An NLP app analyzing public consumer complaints using cloud-native AI. It leverages AWS Bedrock for generative summarization and sentiment analysis, and BERTopic for topic modeling. Insights are presented in an interactive Streamlit dashboard.
+
+Tech: python · nlp · data-science · generative-ai · aws · aws-bedrock · boto3 · streamlit · bertopic · spacy · data-visualization · sentiment-analysis · prompt-engineering
 ---
 
 ## Publications & Presentations
