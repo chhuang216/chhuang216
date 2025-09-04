@@ -45,18 +45,22 @@ To demonstrate my applied skills and technical breadth, I am building open-sourc
 
 ### `gene-expression-ai-pipeline`  
 Predict disease status from gene expression data using machine learning and SHAP-based explainability.  
+
 Tech: Python · scikit-learn · SHAP · XGBoost · Docker · Jupyter · TensorFlow
 
 ### `cdk-projen`
 AWS CDK (TypeScript) + Projen project that deploys a minimal, cost-safe foundation (public VPC, S3 artifacts, ECR, IAM) with CloudTrail, budget, tests, and GitHub Actions CI. Reproducible IaC starter for ML/AI workloads.  
+
 Tech: AWS · AWS-CDK · TypeScript · IaC · VPC · CloudFormation · ERC · Projen · CDK-NAG
 
 ### `student-outcomes-reporting` 
 This project demonstrates a compact, reproducible workflow to ingest public higher-education data, prepare student-weighted metrics, and publish stakeholder-ready Tableau dashboards.  
+
 Tech: Python · T-SQL · Tableau · Docker
 
 ### `realtime-data-pipeline` 
 Windows-first PySpark batch pipeline: ingest raw → bronze Parquet, run DQ checks, publish curated silver. PowerShell wrapper adds Spark hygiene, parallelism controls, and step logs.  
+
 Tech: PySpark · Spark · ETL · Python · Parquet · DQ · Bronze/Silver · Partitioning · PyArrow · PowerShell · Windows · Logging · Airflow · Git/GitHub
 
 ### `customer-feedback-analyzer` 
